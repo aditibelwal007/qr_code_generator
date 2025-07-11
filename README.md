@@ -6,6 +6,8 @@ A simple and effective script to generate a **QR code** using Python. The QR cod
 
 Advanced QR Code Generator using Python is a simple and enhanced Python program that generates a QR code for a URL with customized colors and error correction. It uses the qrcode library along with Pillow (PIL) for image processing. This version supports setting QR code version, error correction level, color customization, and saves the final image as a .png file.
 
+ Advanced QR Code Generator ........................ <img width="410" height="410" alt="image" src="https://github.com/user-attachments/assets/0c4fb2be-a3f0-49e3-a808-9bf6c58b851f" />
+
 
 ---
 
