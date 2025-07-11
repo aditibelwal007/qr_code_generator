@@ -2,7 +2,8 @@
 
 A simple and effective script to generate a **QR code** using Python. The QR code can be for a URL, text, contact info, or anything you want. The generated code is saved as an image file that you can use in print or digital media.
 
-<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/e66f2dd3-57b8-4cce-812c-d33b412ae923" />
+<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/e66f2dd3-57b8-4cce-812c-d33b412ae923" />    <img width="410" height="410" alt="image" src="https://github.com/user-attachments/assets/9babe64b-f395-4ddb-8d71-1b8a92208f3e" />
+
 
 
 ---
