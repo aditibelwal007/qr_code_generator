@@ -38,6 +38,8 @@ Advanced QR Code Generator using Python is a simple and enhanced Python program 
 Generates a QR code for: https://adityadhiman.in
 Saves it as: mscube_youtube.png
 ```
+
+---
 **⚙️ Usage
 Clone the repository or create a Python file:
 
@@ -59,6 +61,7 @@ bash
 python qr_code.py
 Your QR code image will be saved in the same directory.**
 
+----
 🧠 How It Works
 Uses the qrcode library to create a QR code from a given string (usually a URL).
 
@@ -66,6 +69,7 @@ Generates an image object using qr_code.make(...).
 
 Saves the image to a file using .save("filename.png").
 
+----
 🤝 Contributing
 Contributions are welcome!
 
@@ -75,6 +79,7 @@ Make your improvements
 
 Submit a Pull Request
 
+----
 📬 Contact
 For any queries or collaboration ideas:
 
