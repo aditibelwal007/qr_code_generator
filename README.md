@@ -36,7 +36,7 @@ Clone the repository or create a Python file:
 
 bash
 
-git clone https://github.com/your-username/qr-code-generator-python
+git clone https://github.com/aditibelwal007/qr-code-generator-python
 cd qr-code-generator-python
 Modify the URL or text inside qr_code.py if desired:
 
