@@ -2,12 +2,12 @@
 
 A simple and effective script to generate a **QR code** using Python. The QR code can be for a URL, text, contact info, or anything you want. The generated code is saved as an image file that you can use in print or digital media.
 
-<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/e66f2dd3-57b8-4cce-812c-d33b412ae923" />    
+<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/e66f2dd3-57b8-4cce-812c-d33b412ae923" />   
 
+-----
 Advanced QR Code Generator using Python is a simple and enhanced Python program that generates a QR code for a URL with customized colors and error correction. It uses the qrcode library along with Pillow (PIL) for image processing. This version supports setting QR code version, error correction level, color customization, and saves the final image as a .png file.
 
  Advanced QR Code Generator ........................ <img width="410" height="410" alt="image" src="https://github.com/user-attachments/assets/0c4fb2be-a3f0-49e3-a808-9bf6c58b851f" />
-
 
 ---
 
